@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449684e0aaca61d48b0856523dfc14cc, type: 3}
+  m_Name: Player Inventory
+  m_EditorClassIdentifier: 
+  savePath: /inventory.Save
+  database: {fileID: 11400000, guid: bd7c7572467232f4c9df3486041c6ddb, type: 2}
+  Container:
+    Items:
+    - ID: 0
+      item:
+        Name: Plastic
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Plastic
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Plastic
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Dirt
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Hazard
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Plastic
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Plastic
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Dirt
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Hazard
+        Id: 0
+      amount: 1
+    - ID: 0
+      item:
+        Name: Plastic
+        Id: 0
+      amount: 1
